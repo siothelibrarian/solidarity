@@ -9,3 +9,9 @@ If you don't know how to use Markdown but want to contribute, cool! Just write i
 
 ## Scheming Folder
 [This Google Drive folder](https://drive.google.com/drive/folders/1PzGMGNP_cWyWZvjM0yANF8cU9LOVBgn-?usp=drive_link) contains a few growing resources, such as a sample telework appeal form and alternative Teams backgrounds.
+
+Statute protecting concerted activity for state workers: https://www.revisor.mn.gov/statutes/cite/179a.06#stat.179A.06.7
+National Labor Relations Act), US Code Sections 157 & 158
+
+Language: 
+"Use of this virtual background constitutes concerted activity and is protected under Minnesota Statute 179A.06, Subdivision 7. You can read this further here: https://www.revisor.mn.gov/statutes/cite/179a.06#stat.179A.06.7."
