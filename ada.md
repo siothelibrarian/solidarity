@@ -5,6 +5,7 @@
 - [MMB Policy #1433: ADA Reasonable Accommodation](https://mn.gov/mmb-stat/equal-opportunity/ada/1433-reasonable-accommodation.pdf)
 - [29 CFR 1630: Regulations to implement the equal employment protections of the Americans with Disabilities Act](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630?toc=1): These are the federal regulations that the MMB Policy 1433 is based on, which describe how employers should implement ADA accommodations, including what they should and should not do during the accommodation process.
 - [Job Accommodation Network - AskJan.org](https://askjan.org/): website with lists of disabilities, as well as ideas for managing symptoms or accommodations that can be requested.
+- [Minnesota STAR Progam - A System of Technology to Achieve Results](https://mn.gov/admin/star/): Lending library of assistive technology for Minnesotans; you can borrow technology to test it out and see if it will meet your needs before purchasing.
 
 ## Language for Accommodation Requests
 
