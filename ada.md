@@ -4,6 +4,7 @@
 - [MMB Americans with Disabilities Act](https://mn.gov/mmb/employee-relations/equal-opportunity/ada/)
 - [MMB Policy #1433: ADA Reasonable Accommodation](https://mn.gov/mmb-stat/equal-opportunity/ada/1433-reasonable-accommodation.pdf)
 - [29 CFR 1630: Regulations to implement the equal employment protections of the Americans with Disabilities Act](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630?toc=1): These are the federal regulations that the MMB Policy 1433 is based on, which describe how employers should implement ADA accommodations, including what they should and should not do during the accommodation process.
+- [Job Accommodation Network - AskJan.org](https://askjan.org/): website with lists of disabilities, as well as ideas for managing symptoms or accommodations that can be requested.
 
 ## Language for Accommodation Requests
 
