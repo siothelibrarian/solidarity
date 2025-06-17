@@ -1,9 +1,14 @@
 # ADA Accommodation Information
 
 ## Useful links
+
+### Regulations and Policies
 - [MMB Americans with Disabilities Act](https://mn.gov/mmb/employee-relations/equal-opportunity/ada/)
 - [MMB Policy #1433: ADA Reasonable Accommodation](https://mn.gov/mmb-stat/equal-opportunity/ada/1433-reasonable-accommodation.pdf)
 - [29 CFR 1630: Regulations to implement the equal employment protections of the Americans with Disabilities Act](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630?toc=1): These are the federal regulations that the MMB Policy 1433 is based on, which describe how employers should implement ADA accommodations, including what they should and should not do during the accommodation process.
+
+### Resources
+- [ADA Title 1: Disclosure and Reasonable Accommodations Presentation by Cindy Tarshish](https://www.disability.state.mn.us/wp-content/uploads/2025/05/CMv2-MCD-RA-Tarshish-2025.pdf): slides from a presentation for State of Minnesota employees hosted by the Minnesota Council on Disability; covers basic information about the reasonable accommodation process and includes contact information for resources at the state and national level. 
 - [Job Accommodation Network - AskJan.org](https://askjan.org/): website with lists of disabilities, as well as ideas for managing symptoms or accommodations that can be requested.
 - [Minnesota STAR Progam - A System of Technology to Achieve Results](https://mn.gov/admin/star/): Lending library of assistive technology for Minnesotans; you can borrow technology to test it out and see if it will meet your needs before purchasing.
 
