@@ -62,7 +62,7 @@ We remain citizens of Minnesota, and of this country, even at the bargaining tab
 ### We have to bargain with AFSCME, otherwise they will bargain without us.
 They might, and that's their right. We're two different unions; we each have to make choices that are best for our members and we're subject to different limitations. But it's not in their best interest to bargain without us, and they know that. We're actively working to build a better relationship with them - maybe this is something we should talk about with them.
 
-Their negotiators don't like the conditions of Push Week, either. I've shared this resolution and had discussions with the AFSCME negotiators and leaders that I'm close with, and they're interested in considering something similar policies.
+Their negotiators don't like the conditions of Push Week, either. I've shared this resolution and had discussions with the AFSCME negotiators and leaders that I'm close with, and they're interested in considering something similar in their own policies.
 
 ### Our contract expires on June 30th - we have to make sure we have a tentative agreement before the expiration.
 The Public Employment Labor Relations Act (PELRA), which governs us, says that our contract stays in effect even after it is expired. In fact, our contract has to expire for us to have the right to strike - so there's no reason for us to be pressured into an agreement with a false sense of urgency. See: [MN Statute 179A.20, Subd. 6](https://www.revisor.mn.gov/statutes/cite/179A.03#stat.179A.03.11)
