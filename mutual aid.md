@@ -5,7 +5,7 @@ MAPE members have created a mutual aid group to provide support and resources to
 You can find more information about how to get connected with us via email, Signal, or Discord in our [Intro to MAPE Mutual Aid Coalition](https://docs.proton.me/u/2/doc?mode=open-url&token=AEFCRDE63W&linkId=Q-6jmCnLZSSNggp14Q6LCA_zJSO4nSzx9YgRMWwSkOPpxTcF3A1iqyZNU9iRD2O1lXmyfzN7VPBN1ZfnUo1BaA%3D%3D#hrFaRkxr3Jd7) document.
 
 ## Need help?
-You can find a spreadsheet of resources that we have compiled here: [MAPE Mutual Aid Skill Share Ideas](https://docs.google.com/spreadsheets/d/1-CSFptVe2PldWY5BKzxRCqjjAp042gy_O5bqtmysOjg/edit?gid=0#gid=0)
+You can find a spreadsheet of resources that we have compiled here: [MAPE Mutual Aid Skill Share Ideas](https://docs.google.com/spreadsheets/d/1-CSFptVe2PldWY5BKzxRCqjjAp042gy_O5bqtmysOjg/edit?gid=0#gid=0).
 It includes:
 - Food support resources in the Twin Cities and Greater MN
 - Housing and rapid response resources
